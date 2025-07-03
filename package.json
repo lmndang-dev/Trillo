@@ -1,0 +1,23 @@
+{
+  "name": "trillo",
+  "version": "1.0.0",
+  "description": "Landing page for trillo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile:sass": "sass --watch sass/main.scss css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmndang-dev/Natours.git"
+  },
+  "author": "Le Minh Nhat Dang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lmndang-dev/Natours/issues"
+  },
+  "homepage": "https://github.com/lmndang-dev/Natours#readme",
+  "devDependencies": {
+    "sass": "^1.89.2"
+  }
+}
