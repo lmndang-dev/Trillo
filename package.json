@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lmndang-dev/Natours.git"
+    "url": "git+https://github.com/lmndang-dev/Trillo.git"
   },
   "author": "Le Minh Nhat Dang",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lmndang-dev/Natours/issues"
+    "url": "https://github.com/lmndang-dev/Trillo.git/issues"
   },
-  "homepage": "https://github.com/lmndang-dev/Natours#readme",
+  "homepage": "https://github.com/lmndang-dev/Trillo.git#readme",
   "devDependencies": {
     "sass": "^1.89.2"
   }
